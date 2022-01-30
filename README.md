@@ -9,10 +9,10 @@
 ### Current Status of Repo
 
 - [ ] Learning Resources
-- [X] <a href="https://github.com/Swarzinium-369/Java-Everyday/tree/main/1-Everyday-Java-qa/4-Javatpoint">Javatpoint</a> (still adding)
+- [X] <a href="https://github.com/curovearth/Java-Everyday/tree/main/1-Everyday-Java-qa/4-Javatpoint">Javatpoint</a> (still adding)
 - [X] CODE-VIT(still adding)
 - [ ] Notes
-- [X] <a href="https://github.com/Swarzinium-369/Java-Everyday/tree/main/1-Everyday-Java-qa/4-Javatpoint/8-Java%20Basic%20Programs">Java Basic Program</a> (still adding)
+- [X] <a href="https://github.com/curovearth/Java-Everyday/tree/main/1-Everyday-Java-qa/4-Javatpoint/8-Java%20Basic%20Programs">Java Basic Program</a> (still adding)
 - [X] Java Projects folder added
 
 <h3>What all can you expect from this repository from my end ?:raised_eyebrow:</h3>
@@ -35,6 +35,6 @@
 
 <h2>Contributors :smile:</h2>
 <p><b>Let's Contribute and Learn Together</b></p>
-<a href = "https://github.com/Swarzinium-369/Java-Everyday/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Swarzinium-369/Java-Everyday"/>
+<a href = "https://github.com/curovearth/Java-Everyday/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=curovearth/Java-Everyday"/>
 </a>

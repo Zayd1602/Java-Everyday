@@ -62,6 +62,15 @@
     - manipulation is fast because no shifting is required
     - ``` LinkedList<String> list = new LinkedList<String>();```
 
+| Method | Description |
+| ```void addFirst(E e)``` | used to insert the given element at the beginning of a list |
+| ```void addLast(E e)``` | used to append the given element to the end of a list |
+| ```E element()``` | used to retrieve the first element of a list. |
+| ```E get(int index)``` | used to return the element at the specified position in a list. |
+| ```E getFirst()``` | used to return the first element in a list. |
+| ```E getLast()``` | used to return the last element in a list. |
+| ```Iterator i = list.descendingIterator();``` | Elements in the reverse order. |
+
 - **QUEUE Interface**
     - maintains first in first out order
     - ordered list
